@@ -17,10 +17,11 @@ This repository contains a set of commands and instructions for creating an Andr
 * Navigate to the project directory:
   ```bash
   cd Android-Payload/
-  cat AP.txt
+  chmod +x Android payload.sh
+  ./Android\ payload.sh
   ```
-* Follow the instructions in the `AP.txt` file to create and deploy an Android payload using Metasploit.
+* Follow this instructions to create and deploy an Android payload using Metasploit.
 ### Disclaimer
-This list of commands is intended for educational and testing purposes only. Use it responsibly and ensure you have permission to deploy payloads on the target devices.
+This script and all of its commands is intended for educational and testing purposes only. Use it responsibly and ensure you have permission to deploy payloads on the target devices.
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
