@@ -14,10 +14,10 @@ This repository contains a set of commands and instructions for creating an Andr
   ```bash
   git clone https://github.com/AdityaSodha/Android-Payload/
   ```
-* Navigate to the project directory:
+* Navigate to the project directory and Run it:
   ```bash
-  cd Android-Payload/
-  chmod +x Android payload.sh
+  cd Android-Payload-main/
+  chmod +x Android\ payload.sh
   ./Android\ payload.sh
   ```
 * Follow this instructions to create and deploy an Android payload using Metasploit.
