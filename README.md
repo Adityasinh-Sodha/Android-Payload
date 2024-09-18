@@ -17,8 +17,8 @@ This repository contains a set of commands and instructions for creating an Andr
 * Navigate to the project directory and Run it:
   ```bash
   cd Android-Payload-main/
-  chmod +x Android\ payload.sh
-  ./Android\ payload.sh
+  chmod +x Script.sh
+  ./Script.sh
   ```
 * Follow this instructions to create and deploy an Android payload using Metasploit.
 ### Disclaimer
