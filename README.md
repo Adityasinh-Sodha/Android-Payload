@@ -12,7 +12,7 @@ This repository contains a set of commands and instructions for creating an Andr
 ### Usage
 * Clone the repository:
   ```bash
-  git clone https://github.com/AdityaSodha/Android-Payload/
+  git clone https://github.com/Adityasinh-Sodha/Android-Payload/
   ```
 * Navigate to the project directory and Run it:
   ```bash
