@@ -1,10 +1,10 @@
 # Android-Payload
 This repository contains a set of commands and instructions for creating an Android payload using Metasploit. This resource is intended for educational and testing purposes, particularly in the field of ethical hacking and cybersecurity.
 ### Features
-* Commands to create an Android payload using Metasploit
-* Instructions for setting up a Metasploit listener
+* autometed Commands to create an Android payload using Metasploit
+* autometic setting Metasploit listener
 * Steps to deploy the payload on an Android device
-* User-friendly and straightforward command list
+* User-friendly and straightforward script
 ### Requirements
 - A Linux-based operating system
 - Metasploit Framework
@@ -17,8 +17,8 @@ This repository contains a set of commands and instructions for creating an Andr
 * Navigate to the project directory and Run it:
   ```bash
   cd Android-Payload-main/
-  chmod +x Script.sh
-  ./Script.sh
+  chmod +x main.sh
+  ./main.sh
   ```
 * Follow this instructions to create and deploy an Android payload using Metasploit.
 ### Disclaimer
