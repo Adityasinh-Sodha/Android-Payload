@@ -25,3 +25,5 @@ This repository contains a set of commands and instructions for creating an Andr
 This script and all of its commands is intended for educational and testing purposes only. Use it responsibly and ensure you have permission to deploy payloads on the target devices.
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+## Author
+Developed by **Adityasinh**.
